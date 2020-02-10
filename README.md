@@ -4,7 +4,7 @@ See [maskbook.com/brand-guide](https://maskbook.com/brand-guide/) for how to use
 
 A more comprehensive manual is under construction here.
 
-Repository: <https://git≥≥hub.com/DimensionDev/Maskbook-VI>
+Repository: <https://github.com/DimensionDev/Maskbook-VI>
 
 ## Brand Colors
 
