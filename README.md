@@ -16,7 +16,7 @@ It can be a good practice to use the white version when the background is black.
 
 If the logo must be put on a predefined background and the background color is similar to MBBlue, a white ring is expected to be added around the circle logo externally. The width of the ring should be **5% of the width of the circle logo**. If using the squircle edition, the width of the external stroke should be **6% of the width of the squircle logo**.
 
-## 2. Logo Shape Placement
+## 2. Geometric Logo
 
 ### Principles
 
@@ -39,7 +39,11 @@ When the environment has a specific border-radius preference for all squircle lo
 
 The width of the core shape should be **60% of the canvas width**.
 
-## 3. Geometric-Text Combinations
+## 3. Text Logo
+
+The text logo of Maskbook is produced with Campton Bold.
+
+## 4. Geometric-Text Combinations
 
 Combinations may be used for better brand identity recognition.
 
@@ -54,7 +58,7 @@ Combinations may be used for better brand identity recognition.
 <img src="./assets/Logo/MB--Logo--CombV-Squircle--Blue.png" width="160">
 <img src="./assets/Logo/MB--Logo--CombV-Circle--Blue.png" width="160">
 
-## 4. Logo With Text Ring
+## 5. Logo With Text Ring
 
 <img src="./assets/Logo/MB--Logo--Geo--ForceSquircle--Blue.svg" width="160">
 <img src="./assets/Logo/MB--Logo--Geo--ForceCircle--Blue.svg" width="160">
