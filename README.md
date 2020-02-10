@@ -1,24 +1,28 @@
 # Maskbook-VI
 
-GitHub Repository: [github.com/DimensionDev/Maskbook-VI](https://github.com/DimensionDev/Maskbook-VI).
+## Introduction
 
-## Brand Colors
+This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) | [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Maskbook.
+
+Many useful assets are provided within this repository. The use of these materials should follow this manual.
+
+## 1. Managing Colors
 
 The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this document.
 
-If you feel hard to remember, remember that the eyes are always blue.
+Unless particularly required by a certain situation, everyone is discouraged from using alternative colors. If you feel hard to remember, remember that the eyes are always blue.
 
-Unless particularly required by a certain situation, everyone is discouraged from using alternative colors.
+It can be a good practice to use the white version when the background is black. But when the background is white, it is recommended to use the MBBlue version.
 
-If the logo must be put on a predefined background and the background color is similar to MBBlue. An white ring is expected to be added around the circle logo externally. The width of the ring should be **5% of the width of the circle logo**. If using the squircle edition, the width of the external stroke should be **6% of the width of the squircle logo**.
+If the logo must be put on a predefined background and the background color is similar to MBBlue, a white ring is expected to be added around the circle logo externally. The width of the ring should be **5% of the width of the circle logo**. If using the squircle edition, the width of the external stroke should be **6% of the width of the squircle logo**.
 
-## Logo Shape Placement
+## 2. Logo Shape Placement
 
 ### Principles
 
 The carved-from-a-squircle **core shape** shall never be used alone. A canvas must always accompany the core shape. The avatar display area (square, circle, or squircle) is considered a canvas.
 
-When displaying a Maskbook logo alone on a free canvas, the square edition may not be used; use the squircle edition or the circle edition instead.
+When displaying a geometric logo of Maskbook, either going alone or going as part of a combination, on a free canvas, the circle edition should be preferred, the squircle edition is discouraged, and the square edition is prohibited.
 
 ### Square Canvas & Squircle Canvas
 
@@ -35,7 +39,22 @@ When the environment has a specific border-radius preference for all squircle lo
 
 The width of the core shape should be **60% of the canvas width**.
 
-## Text Ring
+## 3. Geometric-Text Combinations
+
+Combinations may be used for better brand identity recognition.
+
+### Horizontal Combinations
+
+<img src="./assets/Logo/MB--Logo--CombH-Squircle--Blue.png" width="360">
+
+<img src="./assets/Logo/MB--Logo--CombH-Circle--Blue.png" width="360">
+
+### Vertical Combinations
+
+<img src="./assets/Logo/MB--Logo--CombV-Squircle--Blue.png" width="160">
+<img src="./assets/Logo/MB--Logo--CombV-Circle--Blue.png" width="160">
+
+## 4. Logo With Text Ring
 
 <img src="./assets/Logo/MB--Logo--Geo--ForceSquircle--Blue.svg" width="160">
 <img src="./assets/Logo/MB--Logo--Geo--ForceCircle--Blue.svg" width="160">
