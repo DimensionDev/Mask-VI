@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) | [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Maskbook.
+This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) \| [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Maskbook.
 
 Many useful assets are provided within this repository. The use of these materials should follow this manual.
 
