@@ -1,10 +1,6 @@
 # Maskbook-VI
 
-See [maskbook.com/brand-guide](https://maskbook.com/brand-guide/) for how to use these assets.
-
-A more comprehensive manual is under construction here.
-
-Repository: <https://github.com/DimensionDev/Maskbook-VI>
+GitHub Repository: [github.com/DimensionDev/Maskbook-VI](https://github.com/DimensionDev/Maskbook-VI).
 
 ## Brand Colors
 
