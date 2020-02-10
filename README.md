@@ -4,6 +4,8 @@ See [maskbook.com/brand-guide](https://maskbook.com/brand-guide/) for how to use
 
 A more comprehensive manual is under construction here.
 
+Repository: <https://git≥≥hub.com/DimensionDev/Maskbook-VI>
+
 ## Brand Colors
 
 The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this document.
