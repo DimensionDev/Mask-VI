@@ -97,3 +97,40 @@ If the avatar shape is **square or squircle**, use this image:
 If the avatar shape is **circle**, use this image:
 
 <img src="./assets/Logo/MB--Logo--Geo--CircleCanvas--Blue.png" width="160">
+
+## Appendix 1: Copyright of Text
+
+This specification, including "README.md" and "DOCUMENTATION.md" in this repository, is published with [GNU GFDL v1.3](https://www.gnu.org/licenses/fdl-1.3.html).
+
+## Appendix 2: Copyright of Images
+
+The images in this repository may be copyrighted by jurisdiction-specific entities of @DimensionDev across jurisdictions.
+
+Any use of these images will not be considered a violation of the copyright of the images, as long as the use comply with the obligations of this specification.
+
+## Appendix 3: Trademark Policy
+
+The word "Maskbook" and the shape "The Laughing Mask" are registered trademarks of several jurisdiction-specific entities of @DimensionDev across jurisdictions.
+
+This specification grants any reader to use these trademarks on a royalty-free, temporary, and revokable basis. Such uses must be explicitly permitted by this appendix in this specification. Any use must comply with the latest version of this specification, unless otherwise authorized with a dedicated written permission. This specification may be updated without prior notification. Appropriate trademark holding entities reserve the right to revoke the permission being granted hereby.
+
+Any item, material or digital, must be free-of-charge for acquiring or using; attaching fares with alternative nominal purpose (for example, shipping fees) are also prohibited.
+
+This specification hereby permits the following usages:
+
+- Community usages
+    - IM-based chat group avatar
+    - Meetup monumental items, only including:
+        - Stickers
+        - Posters
+        - Postcards
+        - Tees
+        - Mugs
+    - Meme pictures, over:
+        - Personal blogs or personal newsletters
+        - Personal social network accounts (posts and albums)
+        - Personal forum accounts (e.g. Reddit & Imgur)
+        - IM-based chat groups
+        - Mailing lists
+    - Personally maintained stickers for IM softwares (e.g. Telegram & WeChat)
+    - Personal profile avatar component (a mask over a face)
