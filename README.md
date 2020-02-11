@@ -8,6 +8,8 @@ Many useful assets are provided within this repository. The use of these materia
 
 ## 1. Managing Colors
 
+### Fundamentals
+
 The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this document.
 
 Unless particularly required by a certain situation, everyone is discouraged from using alternative colors. If you feel hard to remember, remember that the eyes are always blue.
@@ -15,6 +17,14 @@ Unless particularly required by a certain situation, everyone is discouraged fro
 It can be a good practice to use the white version when the background is black. But when the background is white, it is recommended to use the MBBlue version.
 
 If the logo must be put on a predefined background and the background color is similar to MBBlue, a white ring is expected to be added around the circle logo externally. The width of the ring should be **5% of the width of the circle logo**. If using the squircle edition, the width of the external stroke should be **6% of the width of the squircle logo**.
+
+### Examples
+
+<img src="/examples/example-001-001.png" width="400">
+
+<img src="/examples/example-001-002.png" width="400">
+
+<img src="/examples/example-001-003.png" width="400">
 
 ## 2. Geometric Logo
 
