@@ -20,11 +20,11 @@ If the logo must be put on a predefined background and the background color is s
 
 ### Examples
 
-<img src="/examples/example-001-001.png" width="400">
+<img src="./examples/example-001-001.png" width="400">
 
-<img src="/examples/example-001-002.png" width="400">
+<img src="./examples/example-001-002.png" width="400">
 
-<img src="/examples/example-001-003.png" width="400">
+<img src="./examples/example-001-003.png" width="400">
 
 ## 2. Geometric Logo
 
