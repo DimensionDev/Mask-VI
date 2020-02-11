@@ -106,17 +106,17 @@ This specification, including "README.md" and "DOCUMENTATION.md" in this reposit
 
 The images in this repository may be copyrighted by jurisdiction-specific entities of @DimensionDev across jurisdictions.
 
-Any use of these images will not be considered a violation of the copyright of the images, as long as the use comply with the obligations of this specification.
+Any use of these images will not be considered a violation of the copyright of the images, as long as the use complies with the latest version of this specification. This specification may be updated without prior notification.
 
 ## Appendix 3: Trademark Policy
 
 The word "Maskbook" and the shape "The Laughing Mask" are registered trademarks of several jurisdiction-specific entities of @DimensionDev across jurisdictions.
 
-This specification grants any reader to use these trademarks on a royalty-free, temporary, and revokable basis. Such uses must be explicitly permitted by this appendix in this specification. Any use must comply with the latest version of this specification, unless otherwise authorized with a dedicated written permission. This specification may be updated without prior notification. Appropriate trademark holding entities reserve the right to revoke the permission being granted hereby.
+This specification grants any reader to use these trademarks on a royalty-free, temporary, and revokable basis. Any use must comply with the latest version of this specification, unless otherwise authorized with a dedicated written permission. This specification may be updated without prior notification. Appropriate trademark holding entities reserve the right to revoke the permission being granted hereby.
 
-Any item, material or digital, must be free-of-charge for acquiring or using; attaching fares with alternative nominal purpose (for example, shipping fees) are also prohibited.
+Any item, material or digital, must be free-of-charge for acquiring or using; attaching fares in alternative names (for example, shipping fees) are also prohibited.
 
-This specification hereby permits the following usages:
+Only the following purposes are hereby permitted by this specification:
 
 - Community usages
     - IM-based chat group avatar
