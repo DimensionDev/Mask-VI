@@ -55,6 +55,12 @@ The text logo of Maskbook is produced with the font [Campton by Rene Bieder](htt
 
 Font-weight is Bold. Letter-spacing is auto.
 
+<img src="./assets/Logo/MB--Logo--Text--Blue.svg" width="240">
+
+<img src="./assets/Logo/MB--Logo--Text--White.svg" width="240">
+
+<img src="./assets/Logo/MB--Logo--Text--Black.svg" width="240">
+
 ## 4. Geometric-Text Combinations
 
 Combinations may be used for better brand identity recognition.
@@ -81,3 +87,13 @@ The base variation should be used as an official symbol.
 <img src="./assets/Logo/MB--Logo--Ring--SquareCanvas.png" width="160">
 
 The with-ring variation should be used mainly for meme purposes and community purposes (for example, non-official user community chat group avatar).
+
+## 6. Using As Avatars
+
+If the avatar shape is **square or squircle**, use this image:
+
+<img src="./assets/Logo/MB--Logo--Geo--SquareCanvas--Blue.png" width="160">
+
+If the avatar shape is **circle**, use this image:
+
+<img src="./assets/Logo/MB--Logo--Geo--CircleCanvas--Blue.png" width="160">
