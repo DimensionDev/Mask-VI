@@ -41,7 +41,9 @@ The width of the core shape should be **60% of the canvas width**.
 
 ## 3. Text Logo
 
-The text logo of Maskbook is produced with Campton Bold.
+The text logo of Maskbook is produced with the font [Campton by Rene Bieder](https://www.myfonts.com/fonts/rene-bieder/campton).
+
+Font-weight is Bold. Letter-spacing is auto.
 
 ## 4. Geometric-Text Combinations
 
