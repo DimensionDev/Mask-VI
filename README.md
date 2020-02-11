@@ -10,7 +10,7 @@ Many useful assets are provided within this repository. The use of these materia
 
 ### Fundamentals
 
-The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this document.
+The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this specification.
 
 Unless particularly required by a certain situation, everyone is discouraged from using alternative colors. If you feel hard to remember, remember that the eyes are always blue.
 
