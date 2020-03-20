@@ -76,17 +76,12 @@ Combinations may be used for better brand identity recognition.
 <img src="./assets/Logo/MB--Logo--CombV-Squircle--Blue.png" width="160">
 <img src="./assets/Logo/MB--Logo--CombV-Circle--Blue.png" width="160">
 
-## 5. Logo With Text Ring
-
-<img src="./assets/Logo/MB--Logo--Geo--ForceSquircle--Blue.svg" width="160">
-<img src="./assets/Logo/MB--Logo--Geo--ForceCircle--Blue.svg" width="160">
-
-The base variation should be used as an official symbol.
+## 5. Meme Usage
 
 <img src="./assets/Logo/MB--Logo--Ring--ForceCircle.png" width="160">
 <img src="./assets/Logo/MB--Logo--Ring--SquareCanvas.png" width="160">
 
-The with-ring variation should be used mainly for meme purposes and community purposes (for example, non-official user community chat group avatar).
+The variation with the text ring should be used mainly for meme purposes and community purposes (for example, non-official community chat group avatar).
 
 ## 6. Using As Avatars
 
