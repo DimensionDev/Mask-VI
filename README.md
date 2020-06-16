@@ -4,7 +4,7 @@
 
 This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) \| [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Maskbook.
 
-Many useful assets are provided within this repository. The use of these materials should follow this manual.
+Many useful assets are provided within this repository and **some are not explicitly mentioned here**. The use of these materials should follow this manual.
 
 ## 1. Managing Colors
 
@@ -25,6 +25,8 @@ If the logo must be put on a predefined background and the background color is s
 <img src="./examples/example-001-002.png" width="400">
 
 <img src="./examples/example-001-003.png" width="400">
+
+<img src="./examples/example-001-004.png" width="400">
 
 ## 2. Geometric Logo
 
@@ -67,9 +69,21 @@ Combinations may be used for better brand identity recognition.
 
 ### Horizontal Combinations
 
-<img src="./assets/Logo/MB--Logo--CombH-Squircle--Blue.png" width="360">
+Blue logo:
 
 <img src="./assets/Logo/MB--Logo--CombH-Circle--Blue.png" width="360">
+
+White logo with blue fill:
+
+<img src="./assets/Logo/MB--Logo--CombH-Circle--White.png" width="360">
+
+White logo without blue fill:
+
+<img src="./assets/Logo/MB--Logo--CombH-Circle--WhiteHollow.png" width="360">
+
+Blue logo, but squircle:
+
+<img src="./assets/Logo/MB--Logo--CombH-Squircle--Blue.png" width="360">
 
 ### Vertical Combinations
 
