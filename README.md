@@ -63,7 +63,7 @@ Font-weight is Bold. Letter-spacing is auto.
 
 <img src="./assets/Logo/MB--Logo--Text--Black.svg" width="240">
 
-## 4. Geometric-Text Combinations
+## 4. Combinations
 
 Combinations may be used for better brand identity recognition.
 
