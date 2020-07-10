@@ -109,7 +109,7 @@ If the avatar shape is **circle**, use this image:
 
 ## Appendix 1: Copyright of Text
 
-This specification, including "README.md" and "DOCUMENTATION.md" in this repository, is published with [GNU GFDL v1.3](https://www.gnu.org/licenses/fdl-1.3.html).
+This specification, including "README.md" and [DOCUMENTATION.md](DOCUMENTATION.md) in this repository, is published with [GNU GFDL v1.3](https://www.gnu.org/licenses/fdl-1.3.html).
 
 ## Appendix 2: Copyright of Images
 
@@ -128,18 +128,18 @@ Any item, material or digital, must be free-of-charge for acquiring or using; at
 Only the following purposes are hereby permitted by this specification:
 
 - Community usages
-    - IM-based chat group avatar
-    - Meetup monumental items, only including:
-        - Stickers
-        - Posters
-        - Postcards
-        - Tees
-        - Mugs
-    - Meme pictures, over:
-        - Personal blogs or personal newsletters
-        - Personal social network accounts (posts and albums)
-        - Personal forum accounts (e.g. Reddit & Imgur)
-        - IM-based chat groups
-        - Mailing lists
-    - Personally maintained stickers for IM softwares (e.g. Telegram & WeChat)
-    - Personal profile avatar component (a mask over a face)
+  - IM-based chat group avatar
+  - Meetup monumental items, only including:
+    - Stickers
+    - Posters
+    - Postcards
+    - Tees
+    - Mugs
+  - Meme pictures, over:
+    - Personal blogs or personal newsletters
+    - Personal social network accounts (posts and albums)
+    - Personal forum accounts (e.g. Reddit & Imgur)
+    - IM-based chat groups
+    - Mailing lists
+  - Personally maintained stickers for IM softwares (e.g. Telegram & WeChat)
+  - Personal profile avatar component (a mask over a face)

@@ -30,7 +30,7 @@ In this repository, we have several major types:
 
 Filename structure:
 
-```
+```plain
 MB--{Type}--{Class}[-{Variation}]--{Usage}[--{Color}].{ext}
 ```
 
@@ -45,12 +45,12 @@ Logo files have several properties:
 
 The Class property has several possible values:
 
-Data    | Description
-------- | -----------
-Geo     | Geometric logo.
-Text    | Text logo.
-CombV   | Combination of both in a vertically line.
-CombH   | Combination of both in a horizontal line.
+| Data  | Description                               |
+| ----- | ----------------------------------------- |
+| Geo   | Geometric logo.                           |
+| Text  | Text logo.                                |
+| CombV | Combination of both in a vertically line. |
+| CombH | Combination of both in a horizontal line. |
 
 Additional values may be used separately as independent cases.
 
@@ -58,10 +58,10 @@ Additional values may be used separately as independent cases.
 
 The Variation property has several possible values:
 
-Data        | Description
------------ | -----------
-Squircle    | The geometric logo component inside is the squircle edition.
-Circle      | The geometric logo component inside is the circle edition.
+| Data     | Description                                                  |
+| -------- | ------------------------------------------------------------ |
+| Squircle | The geometric logo component inside is the squircle edition. |
+| Circle   | The geometric logo component inside is the circle edition.   |
 
 This property be used only when the value of Class is "CombH" or "CombV".
 
@@ -69,22 +69,22 @@ This property be used only when the value of Class is "CombH" or "CombV".
 
 The Usage property has several possible values:
 
-Data            | Description
---------------- | -----------
-Core            | The core shape without any padding.
-FreeCanvas      | There is no particular restriction around the logo. For example, a large poster.
-SquareCanvas    | The canvas is a square or a squircle.
-CircleCanvas    | The canvas is a circle. Corners will be trimmed.
-ForceCircle     | Transparent corners to make the image a circle, regardless of canvas.
-ForceSquircle   | Transparent corners to make the image a squircle, regardless of canvas.
+| Data          | Description                                                                      |
+| ------------- | -------------------------------------------------------------------------------- |
+| Core          | The core shape without any padding.                                              |
+| FreeCanvas    | There is no particular restriction around the logo. For example, a large poster. |
+| SquareCanvas  | The canvas is a square or a squircle.                                            |
+| CircleCanvas  | The canvas is a circle. Corners will be trimmed.                                 |
+| ForceCircle   | Transparent corners to make the image a circle, regardless of canvas.            |
+| ForceSquircle | Transparent corners to make the image a squircle, regardless of canvas.          |
 
 #### Property: Color
 
-Data            | Description
---------------- | -----------
-Blue            | #1C68F3.
-Black           | #000000.
-WhiteInBlue     | #FFFFFF shape over #1C68F3 canvas.
+| Data        | Description                        |
+| ----------- | ---------------------------------- |
+| Blue        | #1C68F3.                           |
+| Black       | #000000.                           |
+| WhiteInBlue | #FFFFFF shape over #1C68F3 canvas. |
 
 For "FreeCanvas" images, if no "In[Color]" is suffixed, the image should have transparent background. Other images must have their respective implied backgrounds.
 
@@ -106,7 +106,7 @@ Banner files have several properties:
 
 Filename structure:
 
-```
+```plain
 MB--{Type}--{Class}[-{Variation}]--E{Edition}.{ext}
 ```
 
@@ -120,7 +120,7 @@ Tile files have several properties:
 
 Filename structure:
 
-```
+```plain
 MB--{Type}--{Class}[-{Variation}]--E{Edition}.{ext}
 ```
 
