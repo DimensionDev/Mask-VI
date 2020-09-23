@@ -1,8 +1,8 @@
-# Maskbook-VI
+# Mask-VI
 
 ## Introduction
 
-This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) \| [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Maskbook.
+This specification ([Webpage](https://dimensiondev.github.io/Mask-VI/) \| [GitHub Repo](https://github.com/DimensionDev/Mask-VI)) is the manual for anyone who needs to work with the logos of Mask.
 
 Many useful assets are provided within this repository and **some are not explicitly mentioned here**. The use of these materials should follow this manual.
 
@@ -10,7 +10,7 @@ Many useful assets are provided within this repository and **some are not explic
 
 ### Fundamentals
 
-The main color scheme of Maskbook is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this specification.
+The main color scheme of Mask is white (#FFFFFF) shape over blue (#1C68F3) canvas. This particular blue color is referred as "MBBlue" in this specification.
 
 Unless particularly required by a certain situation, everyone is discouraged from using alternative colors. If you feel hard to remember, remember that the eyes are always blue.
 
@@ -34,7 +34,7 @@ If the logo must be put on a predefined background and the background color is s
 
 The carved-from-a-squircle **core shape** shall never be used alone. A canvas must always accompany the core shape. The avatar display area (square, circle, or squircle) is considered a canvas.
 
-When displaying a geometric logo of Maskbook, either going alone or going as part of a combination, on a free canvas, the circle edition should be preferred, the squircle edition is discouraged, and the square edition is prohibited.
+When displaying a geometric logo of Mask, either going alone or going as part of a combination, on a free canvas, the circle edition should be preferred, the squircle edition is discouraged, and the square edition is prohibited.
 
 ### Square Canvas & Squircle Canvas
 
@@ -51,19 +51,7 @@ When the environment has a specific border-radius preference for all squircle lo
 
 The width of the core shape should be **60% of the canvas width**.
 
-## 3. Text Logo
-
-The text logo of Maskbook is produced with the font [Campton by Rene Bieder](https://www.myfonts.com/fonts/rene-bieder/campton).
-
-Font-weight is Bold. Letter-spacing is auto.
-
-<img src="./assets/Logo/MB--Logo--Text--Blue.svg" width="240">
-
-<img src="./assets/Logo/MB--Logo--Text--White.svg" width="240">
-
-<img src="./assets/Logo/MB--Logo--Text--Black.svg" width="240">
-
-## 4. Combinations
+## 3. Combinations
 
 Combinations may be used for better brand identity recognition.
 
@@ -90,14 +78,14 @@ Blue logo, but squircle:
 <img src="./assets/Logo/MB--Logo--CombV-Squircle--Blue.png" width="160">
 <img src="./assets/Logo/MB--Logo--CombV-Circle--Blue.png" width="160">
 
-## 5. Meme Usage
+## 4. Meme Usage
 
 <img src="./assets/Logo/MB--Logo--Ring--ForceCircle.png" width="160">
 <img src="./assets/Logo/MB--Logo--Ring--SquareCanvas.png" width="160">
 
 The variation with the text ring should be used mainly for meme purposes and community purposes (for example, non-official community chat group avatar).
 
-## 6. Using As Avatars
+## 5. Using As Avatars
 
 If the avatar shape is **square or squircle**, use this image:
 
@@ -119,7 +107,7 @@ Any use of these images will not be considered a violation of the copyright of t
 
 ## Appendix 3: Trademark Policy
 
-The word "Maskbook" and the shape "The Laughing Mask" are registered trademarks of several jurisdiction-specific entities of @DimensionDev across jurisdictions.
+The word "Mask" and the shape "The Laughing Mask" are registered trademarks of several jurisdiction-specific entities of @DimensionDev across jurisdictions.
 
 This specification grants any reader to use these trademarks on a royalty-free, temporary, and revokable basis. Any use must comply with the latest version of this specification, unless otherwise authorized with a dedicated written permission. This specification may be updated without prior notification. Appropriate trademark holding entities reserve the right to revoke the permission being granted hereby.
 

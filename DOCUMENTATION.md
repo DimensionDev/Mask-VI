@@ -1,8 +1,8 @@
-# Maskbook VI Assets Management Standard
+# Mask VI Assets Management Standard
 
 ## Introduction
 
-This document is part of specification "Maskbook-VI".
+This document is part of specification "Mask-VI".
 
 This document elaborates how should image assets be managed.
 
