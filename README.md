@@ -1,5 +1,3 @@
-# Mask Network-VI
-
 ## Introduction
 
 This specification ([Webpage](https://dimensiondev.github.io/Maskbook-VI/) \| [GitHub Repo](https://github.com/DimensionDev/Maskbook-VI)) is the manual for anyone who needs to work with the logos of Mask.
